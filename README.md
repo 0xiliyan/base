@@ -1,4 +1,4 @@
-# Base ecosystem open-source contracts for the community created by me
+# Base ecosystem contracts for general use by third parties
 
 ## MultiMarketPrediction Contract
 
